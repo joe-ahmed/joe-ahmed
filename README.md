@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there my name is joe👋
+
+- 🤖 I'm currently learning NumPy / pandas
+- 👨‍🎓 Recently graduated from CS
+- ✨ Aspiring to achieve my dreams
 
 <!--
 **joe-ahmed/joe-ahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
